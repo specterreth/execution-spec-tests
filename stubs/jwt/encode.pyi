@@ -1,3 +1,0 @@
-from typing import Any, Dict
-
-def encode(payload: Dict[Any, Any], key: bytes, algorithm: str) -> str: ...
